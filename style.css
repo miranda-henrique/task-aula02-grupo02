@@ -1,0 +1,28 @@
+body {
+    background: #262626;
+    color: #fff;
+}
+
+h3 {
+    color: #e4e4e7;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+header ul li {
+    color: yellow;
+    transition: all 0.4s;
+}
+
+header ul li:hover {
+    color: yellowgreen;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
