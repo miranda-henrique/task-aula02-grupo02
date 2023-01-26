@@ -4,3 +4,4 @@
 - Giovanne Menicheli - QA
 - Luis de Paula - QA
 - Gabriel Kleiman - QA
+- Lucas Alves - Backend
